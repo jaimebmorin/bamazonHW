@@ -7,5 +7,5 @@
 2.  - ensure MYSQL is running using command "brew services start mysql" in terminal.
 3.  - run file "schema.sql" in Sequel Pro
 4.  - import the file "databaseinfo.csv" into table "products" on database "bamazon"
-5.  - run 
+5.  - run command "node bamazonCustomer.js" in terminal to view customer side interface.
 
