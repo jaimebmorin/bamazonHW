@@ -30,3 +30,4 @@ connection.query("SELECT * FROM products ORDER BY id", function(err, results) {
         }
     }
 });
+
